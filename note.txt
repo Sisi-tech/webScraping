@@ -1,0 +1,4 @@
+Libraries:
+Beautiful Soup
+lxml
+requests
